@@ -257,50 +257,20 @@ award:
   show: true
   order: 8
   title: Awards
-  description: |
-    The award section in a resume is a dedicated section where you can showcase any awards you have received. This section is particularly relevant for individuals who have received awards for their work in their field, such as employees who have received performance awards or industry-specific awards. In this section, you should list the name of the award, the organization or institution that awarded it, the date it was awarded, and any other relevant details.
-
-    When including your awards on your resume, be sure to focus on the most significant or relevant awards that showcase your skills and expertise. If you have received a long list of awards, you may want to consider including only the most recent or prestigious awards on your resume.
-
-    By highlighting your awards, you can demonstrate your achievements and accomplishments in your field, and can help differentiate yourself from other candidates. However, if you have not received any awards, it is not necessary to include this section in your resume.
+  description: 
 
   items:
-    - name: Example Awared One
-      awarder: by Example
-      date: 2022
-      link: '#'
-      description: |
-        It's my Example Awared One by Example.
-    - name: Example Awared Two
-      awarder: by Example
-      date: 2022
+    - name: Macquarie University Research Excellence Scholarship
+      awarder: Macquarie University
+      date: 2010 - 2-14
+      link: 
+      description: 
+    
+    - name: Department for Employment and Learning Studentship
+      awarder: Queen's University Belfast
+      date: 2008-2009
       link:
-      description: |
-        It's my Example Awared Two by Example.
-
-patent:
-  show: true
-  order: 9
-  title: Patents
-  description: |
-    The patent section in a resume is a dedicated section where you can showcase any patents that you have been granted or are in the process of obtaining. This section is particularly relevant for individuals who work in scientific or technical fields, as well as for individuals who have developed innovative products or technologies.
-
-    In this section, you should list the title of the patent, the name of the inventors, the patent number, and the date it was granted. If the patent is pending, you can indicate that it is "pending" or "in review." You may also want to provide a brief description of the technology or invention that the patent covers.
-
-    Including a patent section in your resume can help demonstrate your expertise and accomplishments in your field, and can help you stand out from other candidates. However, if you do not have any patents to list, it is not necessary to include this section in your resume.
-
-    Template for a pending patent:
-
-    + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date]. Patent pending.
-
-    Template for an approved patent:
-
-    + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date], [Received Date].
-
-    The following are some examples of patent formats.
-
-    + Foo Bar. 2022. Example patent name one. US 123456, filed Oct 3, 2022. Patent pending.
-    + Foo Bar. 2022. Example patent name two. US 654321, filed Oct 3, 2022, and issued Nov 15, 2022.
+      description: 
 
 organization:
   show: true
