@@ -126,13 +126,13 @@ skill:
   description: 
 
   items:
-    - name: Integral Field Unit Spectroscopy
+    - name: IFU Spectroscopy
       level: 5
-    - name: X-ray Data Analysis
+    - name: X-ray Analysis
       level: 5
-    - name: Photoionization Modeling
+    - name: Photoionization
       level: 4
-    - name: Hydrodynamic Simulation
+    - name: Hydrodynamics
       level: 4
 
 
