@@ -126,29 +126,47 @@ skill:
   description: 
 
   items:
-    - name: Skill A
+    - name: Integral Field Unit Spectroscopy
       level: 5
-    - name: Skill B
+    - name: X-ray Data Analysis
+      level: 5
+    - name: Photoionization Modeling
       level: 4
-    - name: Skill C
-      level: 3
+    - name: Hydrodynamic Simulation
+      level: 4
+
 
   groups:
-    - name: Group A Skills
+    - name: IFU Spectroscopy
       item:
-        - Skill A
-        - Skill B
-        - Skill C
-        - Skill D
-    - name: Group B Skills
+        - Plasma Diagnostics
+        - Abundance Analysis
+        - Morpho-kinematics
+        - IRAF
+        - IDL
+        - Python
+    - name: X-ray Data Analysis
       item:
-        - Skill E
-        - Skill F
-        - Skill G
-    - name: Group C Skills
+        - HEASoft
+        - XMMSAS
+        - CIAO
+        - Sherpa
+        - Xspec
+        - ISIS
+    - name: Photoionization
       item:
-        - Skill H
-        - Skill I
+        - 1D Cloudy
+        - 3D MOCASSIN
+        - Non-equilibrium
+        - IDL
+        - Python
+    - name: Hydrodynamics
+      item:
+        - FLASH
+        - Fortran
+        - yt
+        - Python
+        - h5py
 
 education:
   show: true
