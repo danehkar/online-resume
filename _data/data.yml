@@ -140,8 +140,8 @@ skill:
     - name: IFU Spectroscopy
       item:
         - Plasma Diagnostics
-        - Abundance Analysis
-        - Morpho-kinematics
+        - Chemistry
+        - Kinematics
         - IRAF
         - IDL
         - Python
@@ -151,22 +151,22 @@ skill:
         - XMMSAS
         - CIAO
         - Sherpa
-        - Xspec
+        - XSpec
         - ISIS
-    - name: Photoionization
+    - name: Photoionization MOdeling
       item:
         - 1D Cloudy
         - 3D MOCASSIN
         - Non-equilibrium
-        - IDL
-        - Python
-    - name: Hydrodynamics
+        - Collisional Ionization
+    - name: Hydrodynamic Simulation
       item:
         - FLASH
         - Fortran
         - yt
         - Python
         - h5py
+        - Radiative Transfer
 
 education:
   show: true
