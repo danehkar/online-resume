@@ -257,15 +257,15 @@ award:
   description: 
 
   items:
-    - name: NASA Astrophysics Data Analysis Program Grant
-      awarder: National Aeronautics and Space Administration
+    - name: Astrophysics Data Analysis Program Grant
+      awarder: NASA
       date: 2022-2024
       link: https://app.dimensions.ai/details/grant/grant.13212490
       description: Black Hole Spin Survey of Radio-quiet AGN (ADAP 80NSSC22K0626)
 
     - name: Sigma Xi Grant-in-Aid of Research
       awarder: Sigma Xi Scientific Research Society
-      date: 2013Issued
+      date: 2013
       link: 
       description: 
 
