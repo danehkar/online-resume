@@ -83,9 +83,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
-
-    A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
+    Ashkbiz "Ash" Danehkar is an astrophysicist employed at Eureka Scientific, where he receives funds from NASA. Prior to his current appointment, he held the position of research fellow at the University of Michigan and a postdoctoral position at the Harvard-Smithsonian Center for Astrophysics from 2015 to 2021. In 2014, he earned his Ph.D. from Macquarie University with the support of a Macquarie Research Excellence Scholarship. Ash is mostly interested in theoretical, observational, and computational astrophysics. Specifically, he is interested in studying superwinds in star-forming galaxies, ultra-fast outflows in active galactic nuclei, astrophysics related to the interstellar medium, and the gravitational physics of supermassive black holes.
 
 experience:
   show: true
@@ -99,7 +97,7 @@ experience:
       tags: Full-time, remote
       date: 2022 - present
       role: Scientist
-      location: Beijing
+      location: Oakland, CA, USA
       description: |
         + Research on spins of supermassive black hole  in radio-quiet galaxies.
 
@@ -108,7 +106,7 @@ experience:
       tags: Full-time
       date: 2019 - 2021
       role: Research Fellow
-      location: Beijing
+      location: Ann Arbor, MI, USA
       description: |
         + Hydrodynamic simulations and photoionization models of starburst-driven outflows.
 
@@ -117,7 +115,7 @@ experience:
       tags: Full-time
       date: 2015 - 2018
       role: Postdoc Fellow
-      location: Beijing
+      location: Cambridge, MA, USA
       description: |
         + Spectral data analysis of X-ray observations of AGN and symbiotic stars, and imaging analysis of ionized nebulae.
 
@@ -160,7 +158,7 @@ education:
   
   items:
     - institution: Macquarie University
-      link: '#'
+      link: https://www.proquest.com/docview/1746632864
       date: 2014
       major: Physics and Astronomy
       degree: Doctorate
@@ -170,7 +168,7 @@ education:
         + Skills: Observational Astronomy, Theoretical Astronomy, Data Analysis and Visualization, Scientific Programming.
 
     - institution: Queen's University  Belfast
-      link: '#'
+      link: https://www.proquest.com/docview/1746651709
       date: 2009
       major: Plasma Physics
       degree: Master
@@ -180,8 +178,8 @@ education:
         + Supported by NI/UK Department for Employment and Learning Studentship.
         + Courses: Theoretical Plasma Physics, Physical Fluid Dynamics, Low Temperature Plasma, High Density Plasmas, Laser Plasmas.
 
-    - institution: Example University
-      link:
+    - institution: University of Rostock
+      link: https://www.proquest.com/docview/2801854471
       date: 2007
       major: Computational and Electrical Engineering
       degree: Master
@@ -243,7 +241,7 @@ award:
   items:
     - name: Macquarie University Research Excellence Scholarship
       awarder: Macquarie University
-      date: 2010 - 2-14
+      date: 2010-2014
       link: 
       description: 
     
