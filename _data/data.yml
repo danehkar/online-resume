@@ -128,7 +128,7 @@ skill:
   items:
     - name: IFU Spectroscopy
       level: 5
-    - name: X-ray Analysis
+    - name: X-ray Data Analysis
       level: 5
     - name: Photoionization
       level: 4
@@ -153,13 +153,13 @@ skill:
         - Sherpa
         - XSpec
         - ISIS
-    - name: Photoionization MOdeling
+    - name: Photoionization
       item:
         - 1D Cloudy
         - 3D MOCASSIN
         - Non-equilibrium
         - Collisional Ionization
-    - name: Hydrodynamic Simulation
+    - name: Hydrodynamics
       item:
         - FLASH
         - Fortran
@@ -257,12 +257,24 @@ award:
   description: 
 
   items:
+    - name: NASA Astrophysics Data Analysis Program Grant
+      awarder: National Aeronautics and Space Administration
+      date: 2022-2024
+      link: 
+      description: "Black Hole Spin Survey of Radio-quiet AGN" (ADAP 80NSSC22K0626)
+
+    - name: Sigma Xi Grant-in-Aid of Research
+      awarder: Sigma Xi Scientific Research Society
+      date: 2013Issued
+      link: 
+      description: 
+
     - name: Macquarie University Research Excellence Scholarship
       awarder: Macquarie University
       date: 2010-2014
       link: 
       description: 
-    
+
     - name: Department for Employment and Learning Studentship
       awarder: Queen's University Belfast
       date: 2008-2009
