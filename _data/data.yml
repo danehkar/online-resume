@@ -41,9 +41,9 @@ contact:
   # academic
   googlescholar: a2LX8coAAAAJ   # username          | https://scholar.google.com/citations?user=username
   researchgate: Ashkbiz-Danehkar # username          | https://www.researchgate.net/profile/username
-  kaggle: ashkbizdanehkar   # username          | https://www.kaggle.com/username
+  kaggle:                      # username          | https://www.kaggle.com/username
   orcid:  0000-0003-4552-5997  # id                | https://orcid.org/id
-  figshare: Ashkbiz_Danehkar/2638657 # name/id           | https://figshare.com/authors/name/id
+  figshare: wd/2638657 # name/id           | https://figshare.com/authors/name/id
 
   # writer
   devto:                   # username          | https://dev.to/username
@@ -61,17 +61,17 @@ contact:
   # other cv
   linkedin: danehkar       # username          | https://linkedin.com/in/username
   indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
-  xing:  Ashkbiz_Danehkar  # username          | https://www.xing.com/profile/username
+  xing:                    # username          | https://www.xing.com/profile/username
   fiverr:                  # username          | https://www.fiverr.com/username
-  freelancer:  danehkar   # username          | https://www.freelancer.com/u/username
+  freelancer:              # username          | https://www.freelancer.com/u/username
 
   # social media
-  twitter: danehkar        # username          | https://twitter.com/username
-  mastodon: danehkar@aus.social  # username@server
+  twitter:                 # username          | https://twitter.com/username
+  mastodon:                # username@server
   instagram:               # username          | https://instagram.com/username
   unsplash:                # username          | https://unsplash.com/@username
   _500px:                  # username          | https://500px.com/p/username
-  youtube: danehkar     # username          | https://www.youtube.com/@username
+  youtube:                 # username          | https://www.youtube.com/@username
   tiktok:                  # username          | https://www.tiktok.com/@username
   quora:                   # username          | https://www.quora.com/profile/username
   zhihu:                   # username          | https://www.zhihu.com/people/username
@@ -201,7 +201,8 @@ education:
   show: true
   order: 5
   title: Education
-  description: |
+  description: 
+  
   items:
     - institution: Macquarie University
       link: '#'
@@ -233,34 +234,27 @@ education:
         + Master’s Thesis: Development of a Microcontroller-based Measurement System for the Neuromuscular Blockade during Anesthesia
         + GPA: Merit
         + Electrical Engineering with a major in Computational Engineering.
-        + Courses: Computational Electromagnetics, Applied Mathematics, Data Science, Control Theory, Microcontrollers, Parallel Computing, Circuit Design, Object-Oriented Programming, Distributed Systems, Computer Operating Systems.
+        + Courses: Computational Electromagnetics, Applied Mathematics, Data Science, Control Theory, Microcontrollers, Parallel Computing, Circuit Design, Object-Oriented Programming, Distributed Systems, Operating Systems.
 
 certificate:
   show: true
   order: 6
   title: Certificates
-  description: |
-    The certificate section in a resume is a dedicated section where you can showcase any additional certifications or specialized training you have received. This section provides potential employers with a more complete picture of your skills and expertise, and can help you stand out from other candidates.
-
-    Certificates can come from a variety of sources, such as online courses, workshops, or professional development programs. Examples of certificates that might be relevant to include on your resume could include certifications in a particular software or technology, industry-specific certifications, or certifications related to a specific skill or area of expertise.
-
-    When including your certificates in your resume, be sure to provide the name of the certification, the institution or organization that issued it, and the date it was issued. You may also want to include a brief description of the skills or knowledge that the certification demonstrates.
-
-    The certificate section of your resume should be tailored to the specific job you are applying for, and should only include certifications that are relevant to the position. By highlighting your certifications, you can demonstrate your commitment to professional development and your expertise in a particular area.
+  description: 
 
   items:
-    - name: Example Certificate One
-      issuer: by Example
-      date: 2020
-      link: '#'
-      description: |
+    - name: Higher Education Teaching Certificate
+      issuer: by Harvard University, Derek Bok Center
+      date: 2021
+      link: https://harvardx.credential.getsmarter.com/839a6f21-3781-483b-b44d-ced97376cac5
+      description: 
         It's my Example Certificate One by Example.
-    - name: Example Certificate Two
-      issuer: by Example
+    - name: Applied Data Science with Python, Specialization Certificate
+      issuer: University of Michigan
       date: 2020
-      link:
-      description: |
-        It's my Example Certificate Two by Example.
+      link: https://coursera.org/verify/specialization/8NLMETU3NJLK
+      description: 
+        
 
 publication:
   show: true
