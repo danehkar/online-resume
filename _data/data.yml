@@ -1,6 +1,6 @@
 basic:
   name: Ashkbiz Danehkar             # name
-  title: Resaerch Scientist          # job title
+  title: Research Scientist          # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
