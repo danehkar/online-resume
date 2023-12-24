@@ -307,9 +307,11 @@ organization:
   order: 10
   title: Organizations
   description: |
-+ International Astronomical Union (IAU), Member
-+ American Astronomical Society (AAS), Full Member
-+ American Physical Society (APS), Member
+    International Astronomical Union (IAU), Member
+
+    American Astronomical Society (AAS), Full Member
+
+    American Physical Society (APS), Member
  
 interest:
   show: true
