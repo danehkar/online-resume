@@ -1,16 +1,16 @@
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: Ashkbiz Danehkar             # name
+  title: Resaerch Scientist          # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
   # meta
-  location: Beijing, China # location
-  email: me@example.com    # email address
-  phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
+  location: Ann Arbor, MI, USA # location
+  email: danehkar -at- eurekasci.com    # email address
+  phone: +1-617-955-0606 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website: danehkar.net    # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
   birthday:                # birthday
@@ -28,7 +28,7 @@ contact:
   threema:                 # userid            | https://threema.id/userid
 
   # programmer
-  github:                  # username          | https://github.com/username
+  github: danehkar         # username          | https://github.com/username
   gitlab:                  # username          | https://gitlab.com/username
   bitbucket:               # username          | https://bitbucket.com/username
   stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
@@ -39,11 +39,11 @@ contact:
   tryhackme:               # username          | https://tryhackme.com/p/username
 
   # academic
-  googlescholar:           # username          | https://scholar.google.com/citations?user=username
-  researchgate:            # username          | https://www.researchgate.net/profile/username
-  kaggle:                  # username          | https://www.kaggle.com/username
-  orcid:                   # id                | https://orcid.org/id
-  figshare:                # name/id           | https://figshare.com/authors/name/id
+  googlescholar: a2LX8coAAAAJ   # username          | https://scholar.google.com/citations?user=username
+  researchgate: Ashkbiz-Danehkar # username          | https://www.researchgate.net/profile/username
+  kaggle: ashkbizdanehkar   # username          | https://www.kaggle.com/username
+  orcid:  0000-0003-4552-5997  # id                | https://orcid.org/id
+  figshare: Ashkbiz_Danehkar/2638657 # name/id           | https://figshare.com/authors/name/id
 
   # writer
   devto:                   # username          | https://dev.to/username
@@ -59,19 +59,19 @@ contact:
   artstation:              # username          | https://www.artstation.com/username
 
   # other cv
-  linkedin:                # username          | https://linkedin.com/in/username
+  linkedin: danehkar       # username          | https://linkedin.com/in/username
   indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
-  xing:                    # username          | https://www.xing.com/profile/username
+  xing:  Ashkbiz_Danehkar  # username          | https://www.xing.com/profile/username
   fiverr:                  # username          | https://www.fiverr.com/username
-  freelancer:              # username          | https://www.freelancer.com/u/username
+  freelancer:  danehkar   # username          | https://www.freelancer.com/u/username
 
   # social media
-  twitter:                 # username          | https://twitter.com/username
-  mastodon:                # username@server
+  twitter: danehkar        # username          | https://twitter.com/username
+  mastodon: danehkar@aus.social  # username@server
   instagram:               # username          | https://instagram.com/username
   unsplash:                # username          | https://unsplash.com/@username
   _500px:                  # username          | https://500px.com/p/username
-  youtube:                 # username          | https://www.youtube.com/@username
+  youtube: danehkar     # username          | https://www.youtube.com/@username
   tiktok:                  # username          | https://www.tiktok.com/@username
   quora:                   # username          | https://www.quora.com/profile/username
   zhihu:                   # username          | https://www.zhihu.com/people/username
@@ -202,30 +202,38 @@ education:
   order: 5
   title: Education
   description: |
-    The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
-
-    In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
-
   items:
-    - institution: Example University
+    - institution: Macquarie University
       link: '#'
-      date: 2015 - 2018
-      major: Machine Learning
+      date: 2014
+      major: Physics and Astronomy
+      degree: Doctorate
+      description: |
+        + PhD Dissertation: Evolution of Planetary Nebulae with WR-type Central Stars
+        + Supported by Macquarie University Research Excellence Scholarship.
+        + Skills: Observational Astronomy, Theoretical Astronomy, Data Analysis and Visualization, Scientific Programming.
+
+    - institution: Queen's University  Belfast
+      link: '#'
+      date: 2009
+      major: Plasma Physics
       degree: Master
       description: |
-        Additional information for this institution.
-        + First
-        + Second
+        + Master’s Thesis: Propagation of Electron-Acoustic Waves in a Plasma with Suprathermal Electrons
+        + GPA: Distinction
+        + Supported by NI/UK Department for Employment and Learning Studentship.
+        + Courses: Theoretical Plasma Physics, Physical Fluid Dynamics, Low Temperature Plasma, High Density Plasmas, Laser Plasmas.
 
     - institution: Example University
       link:
-      date: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
+      date: 2007
+      major: Computational and Electrical Engineering
+      degree: Master
       description: |
-        Additional information for this institution.
-        + First
-        + Second
+        + Master’s Thesis: Development of a Microcontroller-based Measurement System for the Neuromuscular Blockade during Anesthesia
+        + GPA: Merit
+        + Electrical Engineering with a major in Computational Engineering.
+        + Courses: Computational Electromagnetics, Applied Mathematics, Data Science, Control Theory, Microcontrollers, Parallel Computing, Circuit Design, Object-Oriented Programming, Distributed Systems, Computer Operating Systems.
 
 certificate:
   show: true
@@ -337,21 +345,6 @@ organization:
 
     This section can be especially valuable for candidates seeking positions in the non-profit sector, social work, or community engagement roles, where experience in social or cultural organizations can demonstrate a genuine passion for social causes and a willingness to work collaboratively towards social change. However, it is important to only include organizations that are relevant to the job you are applying for, and avoid listing organizations that may be controversial or potentially offensive.
 
-language:
-  show: true
-  order: 11
-  title: Languages
-  description: |
-    The languages section in a resume typically includes information about your proficiency in different languages. This section can be particularly important if you are applying for a job that requires fluency or proficiency in a specific language.
-
-    It's important to be honest about your language proficiency in your resume. If you overstate your abilities, it could lead to problems during the interview process or on the job. If you have taken language courses or earned language certifications, you can also include this information in the languages section of your resume.
-
-  items:
-    - idiom: Chinese
-      level: Native
-    - idiom: English
-      level: Professional
-
 interest:
   show: true
   order: 12
@@ -369,49 +362,11 @@ interest:
     - item: Cooking
       link:
 
-evaluation:
-  show: true
-  order: 13
-  title: Self-evaluation
-  description: |
-    The self-evaluation section in a resume is a section where you can evaluate and assess your own skills, strengths, and weaknesses. It is typically a short paragraph or bullet points at the end of your resume, which provides a personal perspective on your abilities and how they align with the requirements of the job.
-
-    In this section, you can highlight your achievements, areas of expertise, and any unique qualities or experiences that set you apart from other candidates. You can also mention areas where you are looking to improve or gain further experience.
-
-    A well-crafted self-evaluation section can demonstrate your self-awareness and confidence in your abilities, as well as your willingness to continuously learn and grow. However, it is important to be honest and avoid over-inflating your skills or qualifications, as this can negatively impact your credibility and the hiring manager's impression of you.
-
 reference:
   show: true
   order: 14
   title: References
   description: |
-    A reference section in a resume is a list of individuals who can vouch for your skills, work ethic, and character. These individuals are typically former managers, colleagues, or mentors who have worked closely with you in the past and can provide insight into your abilities and work style.
-
-    It's important to note that including a reference section in a resume is not always necessary, and some employers may prefer to request references separately. If you do choose to include a reference section, it should typically be located at the end of your resume.
-
-    When listing references, be sure to include the individual's name, job title, company name, phone number, and email address. It's also a good idea to ask for the individual's permission before listing them as a reference, and to let them know what kind of job you are applying for so they can speak to your relevant skills and experience.
-
-    It's important to choose references who can provide a positive and comprehensive evaluation of your work. Avoid listing family members or friends as references, and instead focus on individuals who can speak to your professional abilities and accomplishments.
-
-  items:
-    - name: Foo One
-      link: '#'
-      title: Backend Developer
-      institution: Second Company
-      address: 1234 Example St, XXX, XY 11111
-      email: foo.one@example.com
-      phone: 111-222-333
-      description: |
-        Foo One was my colleague in Second Company.
-
-    - name: Bar Two
-      link:
-      title: Professor
-      institution: Example University
-      address: 4321 Example St, YYY, XY 22222
-      email: bar.two@example.com
-      phone: 444-555-666
-      description: |
-        Bar Two was my advisor at Example University.
+    Available Upon Request.
 
 close: <strong>Sorry, my resume has been hidden.</strong>
