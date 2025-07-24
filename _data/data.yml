@@ -1,14 +1,14 @@
 basic:
   name: Ashkbiz Danehkar             # name
-  title: Research Scientist          # job title
+  title: Scientist          # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
   # meta
-  location: Ann Arbor, MI, USA # location
-  email: danehkar -at- eurekasci.com    # email address
+  location:  Huntsville, AL, USA # location
+  email: adanehkar -at- usra.edu    # email address
   phone: +1-617-955-0606 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: danehkar.net    # site URL without schema, like example.com, will automatically prepand "https://"
 
@@ -83,7 +83,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    Ashkbiz "Ash" Danehkar is an astrophysicist employed at Eureka Scientific, where he receives funds from NASA. Prior to his current appointment, he held the position of research fellow at the University of Michigan and a postdoctoral position at the Harvard-Smithsonian Center for Astrophysics from 2015 to 2021. In 2014, he earned his Ph.D. from Macquarie University with the support of a Macquarie Research Excellence Scholarship. Ash is mostly interested in theoretical, observational, and computational astrophysics. Specifically, he is interested in studying superwinds in star-forming galaxies, ultra-fast outflows in active galactic nuclei, astrophysics related to the interstellar medium, and the gravitational physics of supermassive black holes.
+    Ashkbiz "Ash" Danehkar is a scientist employed at  at the Universities Space Research Association (USRA). Prior to his current appointment, he held the position of research scientist at Eureka Scientific (2022-2025), where he received funds from NASA. I was also a research fellow at the University of Michigan (2019-2021) and a postdoctoral position at the Harvard-Smithsonian Center for Astrophysics from (2015-2018). In 2014, he earned his Ph.D. from Macquarie University with the support of a Macquarie Research Excellence Scholarship. Ash is mostly interested in theoretical, observational, and computational astrophysics. Specifically, he is interested in studying superwinds in star-forming galaxies, ultra-fast outflows in active galactic nuclei, astrophysics related to the interstellar medium, and the gravitational physics of supermassive black holes.
 
 experience:
   show: true
@@ -92,11 +92,20 @@ experience:
   description: 
   
   items:
+    - company: Universities Space Research Association
+      link: 
+      tags: Full-time
+      date: 2025 - present
+      role: Scientist
+      location: Huntsville, AL, USA
+      description: |
+        + Support NASA's Interagency Implementation and Advanced Concepts Team (IMPACT).
+      
     - company: Eureka Scientific Inc
       link: 
       tags: Full-time, remote
-      date: 2022 - present
-      role: Scientist
+      date: 2022 - 2025
+      role: Research Scientist
       location: Oakland, CA, USA
       description: |
         + Research on spins of supermassive black hole  in radio-quiet galaxies.
