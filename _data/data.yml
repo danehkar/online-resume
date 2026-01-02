@@ -9,7 +9,7 @@ contact:
   # meta
   location:  Huntsville, AL, USA # location
   email: adanehkar -at- usra.edu    # email address
-  phone: +1-617-955-0606 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  phone: # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: danehkar.net    # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
